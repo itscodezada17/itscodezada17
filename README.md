@@ -8,6 +8,9 @@
 [![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodezada17)](https://github.com/itscodezada17/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodezada17)](https://github.com/itscodezada17/github-readme-stats)
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=itscodezada17)](https://github.com/itscodezada17/github-readme-stats)
+
 <!---
 itscodezada17/itscodezada17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

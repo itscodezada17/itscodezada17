@@ -4,11 +4,13 @@
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
 - 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Data Structures and Algorithms</ins>.
-- ✍️ Writing tech article on GeeksforGeeeks **[GeksforGeeks Articles](https://auth.geeksforgeeks.org/user/its_codezada17/articles)** to help more developers learn from my experience.
-- 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/its_codezada17)**, **[CodeForces](https://codeforces.com/profile/ujjwal17)** and Doing problem solving on **[GeksforGeeks](https://auth.geeksforgeeks.org/user/its_codezada17/practice/)**.
+- ✍️ Writing tech article on GeeksforGeeeks <a href="https://auth.geeksforgeeks.org/user/its_codezada17/articles"><img alt="GeeksforGeeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=for-the-badge"/></a> to help more developers learn from my experience.
+
+
+- 💻 In my free time I do Competitive Programming, find me here 
+<a href="https://www.codechef.com/users/its_codezada17"><img alt="Codechef" src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=for-the-badge"/></a> , <a href="https://codeforces.com/profile/ujjwal17"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=for-the-badge"/></a> and Doing problem solving on <a href="https://auth.geeksforgeeks.org/user/its_codezada17/practice/"><img alt="GeeksforGeeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=for-the-badge"/></a> .
 - ⚡ To know more headout to my **[Portfolio](https://itscodezada17.github.io/)**.
 - 👯 When I'm not coding, find me writing or reading some hindi poetry or stories!😉<br>
-
 
 ### **Languages and Tools familiar or experience with:**  
 
@@ -61,9 +63,10 @@
 <p align="center">
    <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/itscodezada17" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:cse20191005@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/itscodezada17" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:cse20191005@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://itscodezada17.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://play.google.com/store/apps/dev?id=5700216398786815814"><img alt="Google Developers" src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=fff&style=for-the-badge"/></a> 
   </p>
 </p>
 

@@ -52,8 +52,7 @@
       <img
         width="335"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodezada17&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-      />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodezada17&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=20&layout=compact&border_color=61dafb&hide_border=true&hide=javascript,html"/>
     </a>
     
 [![Ujjwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=itscodezada17&theme=gotham)](https://github.com/itscodezada17/github-readme-activity-graph)

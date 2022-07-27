@@ -1,3 +1,4 @@
+<img src="https://github.com/itscodezada17/itscodezada17/blob/main/Mediamodifier-Design-Template.png" alt="Hero image">
 
 ### I am incredibly passionate about building unique and innovative products.
 ### I am a self-taught programmer from INDIA. 🔭

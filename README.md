@@ -1,9 +1,9 @@
 
 
 <!--
-**itscodezada17/itscodezada17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itscodezada17/itscodezada17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github.com/Iltwats/Iltwats/raw/master/resources/gitInto.jpg" alt="Hero image">
+<img src="https://github.com/itscodezada17/itscodezada17/blob/main/Mediamodifier-Design-Template.jpg" alt="Hero image">
 
 ### I am incredibly passionate about building unique and innovative productson Android !! 👋
 ### I am a self-taught programmer from INDIA. 🔭

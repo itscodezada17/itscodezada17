@@ -75,6 +75,9 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+
+<a href="https://github.com/subhaDTECH/github-readme-activity-graph"><img alt="itscodezada17 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itscodezada17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <!--
 - 🔭 I’m currently working on Android Development and Learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Android development.
@@ -82,10 +85,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ....
 -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscodezada17&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itscodezada17&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
-</a> 
--->
+

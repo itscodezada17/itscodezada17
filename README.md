@@ -8,7 +8,7 @@
   <a href="mailto:ujjwal.bhardwaj.sde@gmail.com">
     <img src="https://img.shields.io/badge/Email-ujjwal.bhardwaj.sde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/itscodezada17/">
+  <a href="https://www.linkedin.com/in/ujjwalandroid/">
     <img src="https://img.shields.io/badge/LinkedIn-itscodezada17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://itscodezada17.github.io/">
@@ -182,7 +182,7 @@ CGPA: **8.04 / 10**
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itscodezada17/">
+  <a href="https://www.linkedin.com/in/ujjwalandroid/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ujjwal.bhardwaj.sde@gmail.com">
